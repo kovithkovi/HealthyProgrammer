@@ -1,0 +1,5 @@
+Drank water at 2023-09-24 11:21:25.500103 
+Eye exercise at 2023-09-24 11:21:30.907332 
+Drank water at 2023-09-24 11:21:34.165488 
+Physical exercise at 2023-09-24 11:21:39.278712 
+Drank water at 2023-09-24 11:21:41.440652 
